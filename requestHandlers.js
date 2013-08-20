@@ -1,7 +1,7 @@
 
 function insult(response) {
 	
-	var part1 = ["Your face", "Your butt", "Your stupid fingers", "Your mamma", "Your brain", "Everything about you", "Even your stupid right foot", "Your ugly earlobe", "Your breath", "Your left knee"];
+	var part1 = ["Your face", "Your butt", "Your stupid index finger", "Your mamma", "Your brain", "Everything about you", "Even your stupid right foot", "Your ugly earlobe", "Your breath", "Your left knee"];
 
 	var part2 = ["looks like", "smells like", "resembles", "feels like", "is uglier than", "is more stupid than", "is worse than", "looks scarier than", "is akin to", "is about equal to"];
 
